@@ -1,5 +1,6 @@
 # Far-Away Home
 > 엘리스 AI트랙 6기 3팀
+[farawayhome_text_p](https://user-images.githubusercontent.com/57275302/228443123-2687bedf-30c0-4fde-85ab-0d4f75348581.png)
 
 
 ## 소개
