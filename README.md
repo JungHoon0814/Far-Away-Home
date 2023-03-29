@@ -22,3 +22,35 @@
   
   
   - :heavy_check_mark: **Data Analysis** : <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black"> <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white">
+
+
+## 프로젝트 기능 설명 
+
+   ### 1. 메인페이지 
+   - 서울지역 각 데이터 확인
+    - 구별 DB 확인 | 검색을 통한 구별 정보 조회  
+    - 행복 지수 페이지 : 구별 행복지수 정보 조회 
+    - 문화환경 만족도 페이지 : 구별 문화 환경 만족도 정보 조회 
+  
+   ### 2. 회원관련 
+   - 회원가입 : 사용자 정보 형식 확인 | 사용자 정보 DB 저장 
+   - 로그인 : DB 존재 여부 확인 | 비밀번호 일치 확인 
+   - 로그아웃 
+   - 회원탈퇴 : 사용자 정보 DB 삭제 
+
+   ### 3. 커뮤니티 게시판 
+   - 게시판 작성, 수정, 삭제
+   
+   ### 4. DB 설계 
+   - DB 설계
+    - 만족도 데이터베이스
+        - 자치구 별 문화환경 만족도
+        - 자치구 별 대중교통 이용 만족도
+    - 병원 수 데이터베이스
+        - 서울시 병의원 위치 정보 데이터
+    - 행복지수 데이터베이스
+        - 서울시 시민 행복지수 데이터
+    - 자치구 별 데이터 관계
+        - 문화환경 만족도 + 행복지수 상관 관계
+        - 대중교통 만족도 + 행복지수 상관 관계
+        - 병원 수 + 행복지수 상관 관계
