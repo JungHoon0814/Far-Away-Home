@@ -7,7 +7,7 @@
 - 주제 : 서울 지역의 살기 좋은 곳을 찾아주는 사이트
   
 ## 기술 스택
-
+  
 ### 프론트엔드
 <div> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
