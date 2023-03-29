@@ -1,6 +1,7 @@
 # Far-Away Home
 > 엘리스 AI트랙 6기 3팀
-<img src="https://user-images.githubusercontent.com/57275302/228443549-ac0cf54b-e124-4894-814b-2f18bb8c059c.png">
+<img src="https://user-images.githubusercontent.com/57275302/228443860-4897b116-13bb-48e0-8191-4a0eac10d711.png">
+
 
 
 
