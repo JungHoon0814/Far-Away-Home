@@ -23,7 +23,7 @@
 
 ### 백엔드
 <div>
-  <img alt="Html" src ="https://img.shields.io/badge/mongodb.svg?&style=for-the-badge&logo=Mongo_DB&logoColor=#47A248"/>
+  <img src ="https://img.shields.io/badge/mongodb.svg?&style=for-the-badge&logo=Mongo_DB&logoColor=#47A248"/>
   <img alt="Html" src ="https://img.shields.io/badge/원하는 아이콘.svg?&style=for-the-badge&logo=벳지내 글자&logoColor=벳지 글자 색"/>
   <img alt="Html" src ="https://img.shields.io/badge/원하는 아이콘.svg?&style=for-the-badge&logo=벳지내 글자&logoColor=벳지 글자 색"/>
   <img alt="Html" src ="https://img.shields.io/badge/원하는 아이콘.svg?&style=for-the-badge&logo=벳지내 글자&logoColor=벳지 글자 색"/>
